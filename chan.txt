@@ -16,9 +16,12 @@ new
 hfiefijseofjowejrpowj
 =======
 hello chan!!
+<<<<<<< HEAD
 hey
 
 
 haduauidishdis
 dkfhushfkuhauwdua
 >>>>>>> 0658e9dc2db69f6ff927807470d20a624e56eb84
+=======
+>>>>>>> parent of eb3734d (new)
