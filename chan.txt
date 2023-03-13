@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello chan
 diajsldjjojd
 
@@ -13,3 +14,11 @@ diajsldjjojd
 
 new
 hfiefijseofjowejrpowj
+=======
+hello chan!!
+hey
+
+
+haduauidishdis
+dkfhushfkuhauwdua
+>>>>>>> 0658e9dc2db69f6ff927807470d20a624e56eb84
